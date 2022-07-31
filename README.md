@@ -20,3 +20,9 @@
 2022/07/27 [15. 三数之和](https://github.com/sissi144/leetcode-top100/blob/main/15.js)
 
 2022/07/28 [17. 电话号码的字母组合](https://github.com/sissi144/leetcode-top100/blob/main/17.js)
+
+2022/07/29 [19. 删除链表的倒数第 N 个结点](https://github.com/sissi144/leetcode-top100/blob/main/19.js)
+
+/单休 到北京了 找房子ing/
+
+2022/07/31 [20. 有效的括号](https://github.com/sissi144/leetcode-top100/blob/main/20.js)
