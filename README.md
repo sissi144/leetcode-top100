@@ -26,3 +26,21 @@
 /单休 到北京了 找房子ing/
 
 2022/07/31 [20. 有效的括号](https://github.com/sissi144/leetcode-top100/blob/main/20.js)
+
+2022/08/01 [21. 合并两个有序链表](https://github.com/sissi144/leetcode-top100/blob/main/21.js)
+
+2022/08/02 [22. 括号生成](https://github.com/sissi144/leetcode-top100/blob/main/22.js)
+
+2022/08/03 [23. 合并K个升序链表](https://github.com/sissi144/leetcode-top100/blob/main/23.js)
+
+2022/08/04 [31. 下一个排列](https://github.com/sissi144/leetcode-top100/blob/main/31.js)
+
+2022/08/05 [32. 最长有效括号](https://github.com/sissi144/leetcode-top100/blob/main/32.js)
+
+/双休 别问 问就是懒。。。。/
+
+2022/08/08 [33. 搜索旋转排序数组](https://github.com/sissi144/leetcode-top100/blob/main/33.js)
+
+/新人封培去啦 见识各路大佬 要继续努力/
+
+2022/08/15 [39. 组合总和](https://github.com/sissi144/leetcode-top100/blob/main/39.js)
