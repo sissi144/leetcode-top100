@@ -44,3 +44,5 @@
 /新人封培去啦 见识各路大佬 要继续努力/
 
 2022/08/15 [39. 组合总和](https://github.com/sissi144/leetcode-top100/blob/main/39.js)
+
+2022/08/16 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/sissi144/leetcode-top100/blob/main/34.js)
