@@ -46,3 +46,13 @@
 2022/08/15 [39. 组合总和](https://github.com/sissi144/leetcode-top100/blob/main/39.js)
 
 2022/08/16 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/sissi144/leetcode-top100/blob/main/34.js)
+
+2022/08/17 [*42. 接雨水](https://github.com/sissi144/leetcode-top100/blob/main/42.js)
+
+2022/08/18 [46. 全排列](https://github.com/sissi144/leetcode-top100/blob/main/46.js)
+
+2022/08/19 [48. 旋转图像](https://github.com/sissi144/leetcode-top100/blob/main/48.js)
+
+/*双休*/
+
+2022/08/22 [49. 字母异位词分组](https://github.com/sissi144/leetcode-top100/blob/main/49.js)
