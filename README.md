@@ -56,3 +56,29 @@
 /*双休*/
 
 2022/08/22 [49. 字母异位词分组](https://github.com/sissi144/leetcode-top100/blob/main/49.js)
+
+2022/08/24 [53. 最大子数组和](https://github.com/sissi144/leetcode-top100/blob/main/53.js)
+
+​					  [55. 跳跃游戏](https://github.com/sissi144/leetcode-top100/blob/main/55.js)
+
+2022/08/25 [56. 合并区间](https://github.com/sissi144/leetcode-top100/blob/main/56.js)
+
+/三休/
+
+2022/08/29 [62. 不同路径](https://github.com/sissi144/leetcode-top100/blob/main/62.js)
+
+​					  [64. 最小路径和](https://github.com/sissi144/leetcode-top100/blob/main/64.js)
+
+​					  [70. 爬楼梯](https://github.com/sissi144/leetcode-top100/blob/main/70.js)
+
+​					  [72. 编辑距离](https://github.com/sissi144/leetcode-top100/blob/main/72.js)
+
+​					  [75. 颜色分类](https://github.com/sissi144/leetcode-top100/blob/main/75.js)
+
+​					  [76. 最小覆盖子串](https://github.com/sissi144/leetcode-top100/blob/main/76.js)
+
+2022/08/30  [78. 子集](https://github.com/sissi144/leetcode-top100/blob/main/78.js)
+
+​					  [79. 单词搜索](https://github.com/sissi144/leetcode-top100/blob/main/79.js)
+
+​					  [84. 柱状图中最大的矩形](https://github.com/sissi144/leetcode-top100/blob/main/84.js)
