@@ -86,3 +86,5 @@
 2022/08/31 [85. 最大矩形](https://github.com/sissi144/leetcode-top100/blob/main/85.js)
 
 2022/09/01 [94. 二叉树的中序遍历](https://github.com/sissi144/leetcode-top100/blob/main/94.js)
+
+2022/09/02 [96. 不同的二叉搜索树](https://github.com/sissi144/leetcode-top100/blob/main/96.js)
