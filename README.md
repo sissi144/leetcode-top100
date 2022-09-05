@@ -88,3 +88,9 @@
 2022/09/01 [94. 二叉树的中序遍历](https://github.com/sissi144/leetcode-top100/blob/main/94.js)
 
 2022/09/02 [96. 不同的二叉搜索树](https://github.com/sissi144/leetcode-top100/blob/main/96.js)
+
+/*双休*/
+
+2022/09/05 [98. 验证二叉搜索树](https://github.com/sissi144/leetcode-top100/blob/main/98.js)
+
+​					 [101. 对称二叉树](https://github.com/sissi144/leetcode-top100/blob/main/101.js)
