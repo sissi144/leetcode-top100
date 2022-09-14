@@ -102,3 +102,19 @@
 ​					[105. 从前序与中序遍历序列构造二叉树](https://github.com/sissi144/leetcode-top100/blob/main/105.js)
 
 ​					[114. 二叉树展开为链表](https://github.com/sissi144/leetcode-top100/blob/main/114.js)
+
+2022/09/08 [121. 买卖股票的最佳时机](https://github.com/sissi144/leetcode-top100/blob/main/121.js)
+
+/中秋 爬山去了/ 要加油啊
+
+2022/09/13 [124. 二叉树中的最大路径和](https://github.com/sissi144/leetcode-top100/blob/main/124.js)
+
+​                     [128. 最长连续序列](https://github.com/sissi144/leetcode-top100/blob/main/128.js)
+
+​                      [136. 只出现一次的数字](https://github.com/sissi144/leetcode-top100/blob/main/136.js)
+
+2022/09/14  [139. 单词拆分](https://github.com/sissi144/leetcode-top100/blob/main/139.js)
+
+​						[141. 环形链表](https://github.com/sissi144/leetcode-top100/blob/main/141.js)
+
+/*50题留念 ✌️*/
