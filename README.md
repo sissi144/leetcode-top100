@@ -118,3 +118,7 @@
 ​						[141. 环形链表](https://github.com/sissi144/leetcode-top100/blob/main/141.js)
 
 /*50题留念 ✌️*/
+
+ [142. 环形链表 II](https://github.com/sissi144/leetcode-top100/blob/main/142.js)
+
+ [146. LRU 缓存](https://github.com/sissi144/leetcode-top100/blob/main/146.js)
