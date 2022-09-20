@@ -119,6 +119,10 @@
 
 /*50题留念 ✌️*/
 
- [142. 环形链表 II](https://github.com/sissi144/leetcode-top100/blob/main/142.js)
+2022/09/15 [142. 环形链表 II](https://github.com/sissi144/leetcode-top100/blob/main/142.js)
 
- [146. LRU 缓存](https://github.com/sissi144/leetcode-top100/blob/main/146.js)
+​                      [146. LRU 缓存](https://github.com/sissi144/leetcode-top100/blob/main/146.js)
+
+2022/09/20 [148. 排序链表](https://github.com/sissi144/leetcode-top100/blob/main/148.js)
+
+​                     [152. 乘积最大子数组](https://github.com/sissi144/leetcode-top100/blob/main/152.js)
