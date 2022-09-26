@@ -130,3 +130,12 @@
 2022/09/21 [155. 最小栈](https://github.com/sissi144/leetcode-top100/blob/main/155.js)
 
  [160. 相交链表](https://github.com/sissi144/leetcode-top100/blob/main/160.js)
+
+2022/09/22 [169. 多数元素 ](https://github.com/sissi144/leetcode-top100/blob/main/169.js) 投票法
+
+ [198. 打家劫舍](https://github.com/sissi144/leetcode-top100/blob/main/198.js) 动态规划 
+
+2022/09/26  [200. 岛屿数量](https://github.com/sissi144/leetcode-top100/blob/main/200.js) dfs
+
+ [206. 反转链表](https://github.com/sissi144/leetcode-top100/blob/main/206.js) 链表 迭代+递归
+
