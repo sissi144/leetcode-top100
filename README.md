@@ -164,3 +164,13 @@
  [283. 移动零](https://github.com/sissi144/leetcode-top100/blob/main/283.js) 
 
 [287. 寻找重复数](https://github.com/sissi144/leetcode-top100/blob/main/287.js) 二分
+
+ 2022/10/09  [297. 二叉树的序列化与反序列化](https://github.com/sissi144/leetcode-top100/blob/main/297.js) 层序遍历/先序遍历
+
+ [300. 最长递增子序列](https://github.com/sissi144/leetcode-top100/blob/main/300.js)  动态规划
+
+ [301. 删除无效的括号](https://github.com/sissi144/leetcode-top100/blob/main/301.js) 回溯 BFS
+
+ [309. 最佳买卖股票时机含冷冻期](https://github.com/sissi144/leetcode-top100/blob/main/309.js)  动态规划
+
+[312. 戳气球](https://github.com/sissi144/leetcode-top100/blob/main/312.js) 动态规划
