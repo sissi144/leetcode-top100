@@ -174,3 +174,17 @@
  [309. 最佳买卖股票时机含冷冻期](https://github.com/sissi144/leetcode-top100/blob/main/309.js)  动态规划
 
 [312. 戳气球](https://github.com/sissi144/leetcode-top100/blob/main/312.js) 动态规划
+
+2022/10/10 [322. 零钱兑换](https://github.com/sissi144/leetcode-top100/blob/main/322.js) 动态规划
+
+ [337. 打家劫舍 III](https://github.com/sissi144/leetcode-top100/blob/main/337.js)  动态规划
+
+ [338. 比特位计数](https://github.com/sissi144/leetcode-top100/blob/main/338.js) 找规律
+
+ [347. 前 K 个高频元素](https://github.com/sissi144/leetcode-top100/blob/main/347.js)  桶牌序
+2022/10/11 [394. 字符串解码](https://github.com/sissi144/leetcode-top100/blob/main/394.js) 栈
+
+ [399. 除法求值](https://github.com/sissi144/leetcode-top100/blob/main/399.js)  图论
+
+ [406. 根据身高重建队列](https://github.com/sissi144/leetcode-top100/blob/main/406.js) 规律
+
