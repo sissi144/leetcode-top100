@@ -1,4 +1,4 @@
-# leetcode-top100
+leetcode-top100 
 开始开始刷题啦 尽量每日一题 
 
 2022/07/18  [1. 两数之和](https://github.com/sissi144/leetcode-top100/blob/main/1.js)
@@ -7,7 +7,7 @@
 
 2022/07/20  [3. 无重复字符的最长子串](https://github.com/sissi144/leetcode-top100/blob/main/3.js)
 
-2022/07/21 [**4. 寻找两个正序数组的中位数](https://github.com/sissi144/leetcode-top100/blob/main/4.js)
+2022/07/21 [4. 寻找两个正序数组的中位数](https://github.com/sissi144/leetcode-top100/blob/main/4.js)
 
 2022/07/22 [5. 最长回文子串](https://github.com/sissi144/leetcode-top100/blob/main/5.js)
 
@@ -47,7 +47,7 @@
 
 2022/08/16 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/sissi144/leetcode-top100/blob/main/34.js)
 
-2022/08/17 [*42. 接雨水](https://github.com/sissi144/leetcode-top100/blob/main/42.js)
+2022/08/17 [42. 接雨水](https://github.com/sissi144/leetcode-top100/blob/main/42.js)
 
 2022/08/18 [46. 全排列](https://github.com/sissi144/leetcode-top100/blob/main/46.js)
 
@@ -187,4 +187,35 @@
  [399. 除法求值](https://github.com/sissi144/leetcode-top100/blob/main/399.js)  图论
 
  [406. 根据身高重建队列](https://github.com/sissi144/leetcode-top100/blob/main/406.js) 规律
+
+ 2022/10/12 [416. 分割等和子集](https://github.com/sissi144/leetcode-top100/blob/main/416.js) 背包/动态规划
+
+ [437. 路径总和 III](https://github.com/sissi144/leetcode-top100/blob/main/437.js)  dfs回溯 
+
+ [438. 找到字符串中所有字母异位词](https://github.com/sissi144/leetcode-top100/blob/main/438.js) 滑动窗口
+
+ 2022/10/13  [448. 找到所有数组中消失的数字](https://github.com/sissi144/leetcode-top100/blob/main/448.js) 
+
+ [461. 汉明距离](https://github.com/sissi144/leetcode-top100/blob/main/461.js) 位运算
+ 
+ [494. 目标和](https://github.com/sissi144/leetcode-top100/blob/main/494.js) 背包
+
+[538. 把二叉搜索树转换为累加树](https://github.com/sissi144/leetcode-top100/blob/main/538.js) dfs
+
+[543. 二叉树的直径](https://github.com/sissi144/leetcode-top100/blob/main/543.js) dfs
+
+[560. 和为 K 的子数组](https://github.com/sissi144/leetcode-top100/blob/main/560.js) 前缀和
+
+
+2022/10/14 [581. 最短无序连续子数组](https://github.com/sissi144/leetcode-top100/blob/main/581.js) 双指针
+
+[617. 合并二叉树](https://github.com/sissi144/leetcode-top100/blob/main/617.js) dfs
+
+[621. 任务调度器](https://github.com/sissi144/leetcode-top100/blob/main/621.js) 规律
+
+[647. 回文子串](https://github.com/sissi144/leetcode-top100/blob/main/647.js) 动态规划
+
+[739. 每日温度](https://github.com/sissi144/leetcode-top100/blob/main/739.js) 单调栈
+ 
+！用了三个月，终于刷完了100题，准备开始第二轮啦，第二轮会分类刷题 继续加油～
 
